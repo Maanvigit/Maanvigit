@@ -8,8 +8,9 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in **Electronics Engineering** (Minor: Computer Science Engineering) at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Amethi** — 2023–27
-- 🤖 I build things at the intersection of **embedded systems and robotics **
+- 🤖 I work at the intersection of **embedded systems, firmware, and PCB design**, developing hardware solutions and designing PCBs using **KiCad**
 - 🏅 **IEEE PES India Scholarship Award (IPISA)** Awardee — IEEE Power and Energy Society (PES) India
+- 🌱 I'm currently learning **Embedded Linux**
 - 📫 How to reach me: **23ec3026@rgipt.ac.in**
 
 ---
@@ -21,6 +22,12 @@
 - Wrote **STM32 firmware** for PWM motor control, encoder feedback and sensor interfacing
 - Integrated **ROS 2 SLAM and Nav2** for mapping, localization, path planning and autonomous navigation
 - Implemented **PID-based motor control** and **UART/CAN** communication between ROS 2 and STM32
+
+**⚖️ Self-Balancing Robot** — *STM32, Embedded C, IMU, PID*
+- Developed a two-wheel self-balancing robot using **STM32** and the **MPU6050 IMU**
+- Implemented **I2C-based sensor interfacing** and filtering for real-time tilt estimation
+- Built **PID-based feedback control** with PWM motor actuation and encoder feedback
+- Tuned the control system for improved stability and disturbance recovery
 
 **⚡ AC-to-DC Converter** — *KiCad, PCB Design, Hardware Prototyping*
 - Designed a **full-wave bridge rectifier** (4 × 1N4007) with capacitor filtering to reduce output ripple
@@ -45,7 +52,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maanvi Mishra LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Vanity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Maanvi Mishra LinkedIn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
