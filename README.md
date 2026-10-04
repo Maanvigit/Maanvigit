@@ -8,9 +8,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech in **Electronics Engineering** (Minor: Computer Science Engineering) at **Rajiv Gandhi Institute of Petroleum Technology (RGIPT), Jais, Amethi** — 2023–27
-- 🤖 I build things at the intersection of **embedded firmware, robotics and power electronics**
+- 🤖 I build things at the intersection of **embedded systems and robotics **
 - 🏅 **IEEE PES India Scholarship Award (IPISA)** Awardee — IEEE Power and Energy Society (PES) India
-- 🌱 I'm currently learning **DBMS**
 - 📫 How to reach me: **23ec3026@rgipt.ac.in**
 
 ---
